@@ -3,7 +3,8 @@ import java.util.*;
 Program to take in user input of 
 sides of a triangel and calculate the type of
 of triangle. 
-Author: Zoe Arnold 
+Author: zoza
+02012022
 */
 
 
